@@ -1,1 +1,4 @@
-# path_prg_robot
+# MULTI-FUNCTIONAL REAL TIME PATH PROGRAMMABLE ROBOT
+# Robotics, Embedded Systems
+Programmable Robots have immense potential in transforming the way we deal with daily routines. They affect the mode of interaction with devices, make our life simple and comfortable.In this paper, we present a dynamic way of programming a robot with path provided as input in the real time and a scaling mechanism that can easily map a large room to a small vicinity in the device through which the path is fed. The paper also presents an intuitive way of measuring the speed and position of the robot using simple IR sensors. Together put, it is a robot knowledgeable about its speed, position and is flexible to travel in any path specified by the user in the real time. Results of this methodology lay foundation for building a robot with abilities rather than tasks and has mettle to change the way robots are being made and utilized.
+
